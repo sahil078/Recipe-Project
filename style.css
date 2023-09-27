@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav-bar{
+    height: 10vh;
+    width: 100vw;
+    background-color: #D9AFD9;
+    background: linear-gradient(90deg, #D9AFD9 0%, #97D9E1 50% , #e58c8c 100%);
+
+}
+
+.nav-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 33, 250);
+}
+
+.nav-name{
+    font-size: 1.5rem;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.nav-list{
+    font-size: 1.5rem;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.list{
+    padding: 20px;
+}
+/* Main Content Container */
+.container{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+/* Container 1 */
+.container1{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.gulab-jamun{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    overflow: wrap;
+    box-shadow: 10px 10px 10px rgba(45, 50, 46, 0.636);
+}
+.Recipe{
+    text-align: center;
+    position: relative;
+    margin-top: 4em;
+    font-size: 1.5rem;
+}
+.h2{
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+/* Container 2 */
+.container2{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.ice-cream{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(50, 47, 45, 0.636);
+}
+
+/* Container 3 */
+.container3{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.cake{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(50, 47, 45, 0.636);
+}
+
+/* Container 4 */
+.container4{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.chiken{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(50, 47, 45, 0.636);
+}
+
+/* Container 5 */
+.container5{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.jalebi{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(50, 47, 45, 0.636);
+}
+
+/* Container 6 */
+.container6{
+    background-color: white;
+    width: 80vw;
+    height: 30vw;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.laddo{
+    width: 18vw;
+    height: 55vh;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(50, 47, 45, 0.636);
+}
+
+.footer{
+    width: 98.8vw;
+    height: 8vh;
+    background-color: rgba(28, 26, 26, 0.955);
+    text-align: center;
+    color: white;
+
+}
